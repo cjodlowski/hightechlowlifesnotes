@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "725cd4b3e480709c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4be649993c57a1a7",
             "type": "leaf",
             "state": {
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QSO.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QSO.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QSO.md"
+                "file": "index.md"
               }
             }
           }
@@ -206,13 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30791d0caeab639c",
+  "active": "725cd4b3e480709c",
   "lastOpenFiles": [
+    "QSO.md",
+    "index.md",
     "Project Eclipse.md",
     "Doxen.md",
     "Zetatech.md",
     "Arasaka Corporation.md",
-    "QSO.md",
     "Raven Microcybernetics.md",
     "Raven Micro Cybernetics.md",
     "BioTechnica.md",
