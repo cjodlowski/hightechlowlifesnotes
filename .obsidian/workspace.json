@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QSO.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QSO"
+              "title": "index"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QSO.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QSO"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -210,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QSO.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QSO"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -237,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QSO.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of QSO"
+              "title": "Outline of index"
             }
           }
         ]
@@ -263,9 +263,11 @@
   },
   "active": "30791d0caeab639c",
   "lastOpenFiles": [
+    "_config.yml",
+    "New Text Document.txt",
+    "QSO.md",
     "Arasaka Corporation.md",
     "index.md",
-    "QSO.md",
     "Project Eclipse.md",
     "Doxen.md",
     "Zetatech.md",
