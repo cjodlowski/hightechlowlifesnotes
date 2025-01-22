@@ -2,11 +2,11 @@ In the wake of the Fourth Corporate War, though still considered a second tier c
  *- From the fandom [Cyberpunk Wiki](https://cyberpunk.fandom.com/wiki/Zetatech)*
 
 ### Former Employees
-- [[Henry "Steak" Park]]
+- [Henry "Steak" Park](Henry%20"Steak"%20Park)
 
 ### Current Employees
-- [[Henry "Steak" Park]] ???
-- [[Paxer “Ghost” Baer]]
+- [Henry "Steak" Park](Henry%20"Steak"%20Park) ???
+- [Paxer “Ghost” Baer](Paxer%20“Ghost”%20Baer)
 
 ### Current Projects
-- [[Project Eclipse]]
+- [Project Eclipse](Project%20Eclipse.md)

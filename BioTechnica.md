@@ -8,9 +8,9 @@ Besides the utilizing the licensing rights of CHOOH2 to other corporations, Biot
 ### Notes
 In a deep underground lab, had conducted experiments on a (presumed) cyberpsycho, possibly experimenting on the limits of cyberware integration in humans
 
-Current Employer of: [[Dr.Thornton]]
+Current Employer of: [Dr.Thornton](Dr.Thornton.md)
 
-In charge of: [[Project Synthetikor]]
+In charge of: [Project Synthetikor](Project%20Synthetikor.md)
 
-Could be working with [[Raven Microcybernetics]] ????
+Could be working with [Raven Microcybernetics](Raven%20Microcybernetics.md) ????
 - Raven possibly sold QSO has a way to push the limits between "human and machine"

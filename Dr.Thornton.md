@@ -1,8 +1,8 @@
-Current employed at [[BioTechnica]] on [[Project Synthetikor]]
+Current employed at [BioTechnica](BioTechnica.md) on [Project Synthetikor](Project%20Synthetikor.md)
 
-Mentions that either herself or [[BioTechnica]] has a deal with [[Raven Microcybernetics]]
+Mentions that either herself or [BioTechnica](BioTechnica.md) has a deal with [Raven Microcybernetics](Raven%20Microcybernetics.md)
 
-Possibly manipulated by [[QSO]]
+Possibly manipulated by [QSO](QSO.md)
 
 ```
 Dr. Thornton's Journal Entry Date: 11/29/2044 11:42 am 

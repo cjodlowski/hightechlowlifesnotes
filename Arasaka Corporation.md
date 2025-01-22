@@ -6,5 +6,5 @@ Arasaka may have been under the nominal control of [Saburo Arasaka](https://cybe
  *- From the fandom [Cyberpunk Wiki](https://cyberpunk.fandom.com/wiki/Arasaka#2040_-_2076)*
 
 
-As of 2045 has announced  [[The Neural Nexus Project]]
+As of 2045 has announced  [The Neural Nexus Project](The%20Neural%20Nexus%20Project.md)
 

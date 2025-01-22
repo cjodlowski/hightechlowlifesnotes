@@ -1,4 +1,4 @@
-Quantum Synaptic Override, or “QSO” is a piece of chipware designed by [[Raven Microcybernetics]]. When paired with a program on an Agent, QSO allows for the user’s desires, motivations, and wants to be manipulated by the program.
+Quantum Synaptic Override, or “QSO” is a piece of chipware designed by [Raven Microcybernetics](Raven%20Microcybernetics.md). When paired with a program on an Agent, QSO allows for the user’s desires, motivations, and wants to be manipulated by the program.
 
   
 
@@ -10,9 +10,9 @@ QSO was internally marketed as a method of assurance and security for both corpo
 
 
 ### Timeline of QSO events
-- QSO is in prototyping phase by [[Raven Microcybernetics]], who employs defensive Netrunners to maintain security 
-- [[_eos]] discovers prototype/ blueprint files within the data center, decides to copy the files and wipe the servers of QSO information, intending to use the chip for themselves
-- [[_eos]] is later kidnapped by [[Zetatech]], who forces them to give up the QSO files they kept on a memory chip inside their Neuralink
-- [[Zetatech]] seemingly uses QSO to placate (and control) their employees - notably [[Henry "Steak" Park]]
-- [[Raven Microcybernetics]] maybe collaborates with [[BioTechnica]] to use QSO in [[Project Synthetikor]]
-- [[Zetatech]] plans to use QSO (or a derivative) in [[Project Eclipse]]
+- QSO is in prototyping phase by [Raven Microcybernetics](Raven%20Microcybernetics.md), who employs defensive Netrunners to maintain security 
+- [_eos](_eos) discovers prototype/ blueprint files within the data center, decides to copy the files and wipe the servers of QSO information, intending to use the chip for themselves
+- [_eos](_eos) is later kidnapped by [Zetatech](Zetatech.md), who forces them to give up the QSO files they kept on a memory chip inside their Neuralink
+- [Zetatech](Zetatech.md) seemingly uses QSO to placate (and control) their employees - notably [Henry "Steak" Park](Henry%20"Steak"%20Park)
+- [Raven Microcybernetics](Raven%20Microcybernetics.md) maybe collaborates with [BioTechnica](BioTechnica.md) to use QSO in [Project Synthetikor](Project%20Synthetikor.md)
+- [Zetatech](Zetatech.md) plans to use QSO (or a derivative) in [Project Eclipse](Project%20Eclipse.md)

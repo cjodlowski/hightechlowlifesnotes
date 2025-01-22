@@ -1,4 +1,4 @@
 ### A
-[[Arasaka Corporation]]
+[Arasaka Corporation](Arasaka%20Corporation.md)
 
 ### B
